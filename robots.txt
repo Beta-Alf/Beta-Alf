@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://beta-alf.github.io/Beta-Alf/sitemap.xml
